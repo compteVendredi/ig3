@@ -1,6 +1,8 @@
 
 # Pour compiler:
-Il faut la version opengl 3.3 pour GLAD et faire sous linux :
+Ajoutez les dossiers obj et bin à la racine du projet.
+
+Puis il faut la version opengl 3.3 pour GLAD et faire sous linux :
 ```
 make -j$(nproc)
 ```
